@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579731139380",
+    "firebase_url": "https://rainbowdiary-3e9eb.firebaseio.com",
+    "project_id": "rainbowdiary-3e9eb",
+    "storage_bucket": "rainbowdiary-3e9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579731139380:android:2396d53357c5e46e0fd361",
+        "android_client_info": {
+          "package_name": "com.example.rainbowdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579731139380-mbo3499nfn2ierqddbslrhd9g75593t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rainbowdiary",
+            "certificate_hash": "dfbe0a25a0e39caf233afba9e258d64883b6d3ad"
+          }
+        },
+        {
+          "client_id": "579731139380-rjoljt23e82kt1qk96n1d7s5aps83j2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9aiR8jcZQAC1CvoEGc2qEck0QEcBA66w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579731139380-rjoljt23e82kt1qk96n1d7s5aps83j2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
